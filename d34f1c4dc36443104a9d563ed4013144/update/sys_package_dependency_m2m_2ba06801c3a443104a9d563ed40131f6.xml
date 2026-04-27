@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">7c7fc2bc9d12321055903da570aff01e</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-27 14:40:24</sys_created_on>
+        <sys_id>2ba06801c3a443104a9d563ed40131f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="HR System - Refund" source="x_1590365_hr_sys_0">d34f1c4dc36443104a9d563ed4013144</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-27 14:40:24</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Refund Request">df517881c32843104a9d563ed4013123</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-27 18:58:13</sys_created_on>
+        <sys_id>88bb5545c36c43104a9d563ed401312e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Refund Request.Refund Requester</sys_name>
+        <sys_package display_value="HR System - Refund" source="x_1590365_hr_sys_0">d34f1c4dc36443104a9d563ed4013144</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR System - Refund">d34f1c4dc36443104a9d563ed4013144</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_88bb5545c36c43104a9d563ed401312e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-27 18:58:13</sys_updated_on>
+        <user_criteria display_value="Refund Requester">b64b5185c36c43104a9d563ed401314a</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+</record_update>

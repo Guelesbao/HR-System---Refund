@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="97ffdc8dc36443104a9d563ed401318a" extends="task" label="Refund" max_length="40" name="x_1590365_hr_sys_0_refund" type="collection">
+        <element label="Reproval Reason" max_length="1000" name="reproval_reason" type="string"/>
+        <element label="Category" max_length="40" name="category" reference="x_1590365_hr_sys_0_refund_category" type="reference"/>
+        <element default="0" label="Refund Amount" max_length="255" name="refund_amount" type="float"/>
+        <element default="0" label="Refund in Dollars" max_length="255" name="refund_in_dollars" type="float"/>
+        <element label="Refund Receipt" max_length="40" name="refund_receipt" type="file_attachment"/>
+        <element label="Refund Date" max_length="40" name="refund_date" type="glide_date"/>
+    </element>
+</database>

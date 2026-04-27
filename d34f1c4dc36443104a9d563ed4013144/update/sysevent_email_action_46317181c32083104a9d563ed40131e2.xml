@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_email_action">
+    <sysevent_email_action action="INSERT_OR_UPDATE">
+        <action_insert>false</action_insert>
+        <action_update>false</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <category display_value="Refund System" name="Refund System">d5517581c32083104a9d563ed401313d</category>
+        <collection>x_1590365_hr_sys_0_refund</collection>
+        <condition/>
+        <content_type>text/html</content_type>
+        <default_interval/>
+        <description/>
+        <digest_from/>
+        <digest_html/>
+        <digest_reply_to/>
+        <digest_separator_html><![CDATA[<p>&nbsp;</p>
+<hr>
+<p>&nbsp;</p>]]></digest_separator_html>
+        <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
+        <digest_subject/>
+        <digest_template/>
+        <digest_text/>
+        <digestable>false</digestable>
+        <enable_dynamic_translation>false</enable_dynamic_translation>
+        <event_name>activate.life.cycle.migration</event_name>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>triggered</generation_type>
+        <importance/>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html><![CDATA[<!-- [if (gte mso 9)|(IE)]>
+				<table cellpadding="0" cellspacing="0" border="0" width="640"><tr><td>
+				<![endif]-->
+<table class="em-narrow-table" style="max-width: 640px; min-width: 640px; width: 640px;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr class="em-structure">
+<td class="em-mob-padding_left-20 em-mob-padding_right-20" style="padding: 20px 40px; background-color: rgb(255, 255, 255); width: 558.4px;" align="center" bgcolor="#FFFFFF">
+<table class="em-mob-width-100perc" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="em-mob-wrap em-mob-width-100perc" valign="top" width="560">
+<table style="height: 23.4px;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr style="height: 23.4px;">
+<td style="height: 23.4px;"><img style="display: inline-block; width: 100%; max-width: 99px;" title="Gemini_Generated_Image_ab5qkeab5qkeab5q.png" src="/sys_attachment.do?sys_id=4dff75c9c36083104a9d563ed401312c" alt="" width="99" border="0"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr class="em-structure">
+<td class="em-mob-padding_left-20 em-mob-padding_right-20" style="padding: 24px 40px; background-color: rgb(255, 255, 255); width: 558.4px;" align="center" bgcolor="#FFFFFF">
+<table class="em-mob-width-100perc" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="em-mob-wrap em-mob-width-100perc" valign="top" width="640">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<div class="font-mulish" style="font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; font-size: 16px; line-height: 24px; color: #595959;" align="left">Dear ${opened_by.first_name},<br><br>I&rsquo;m ${category.assignment_group.manager.name}, HR Manager of HR System -&nbsp; Refund.<br><br>We have reviewed your recent refund request ${number} submitted on ${refund_date}. Unfortunately, we are unable to approve your request at this time.&nbsp;<br><br>Your request was rejected for the following reason:</div>
+<div class="font-mulish" style="font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; font-size: 16px; line-height: 24px; color: #595959;" align="left">${reproval_reason}<br><br>If you have additional information, missing receipts, or believe this decision was made in error, you can update and resubmit your request directly through the HR Portal. Please ensure that all future requests align with the HR System -Refund expense policy.&nbsp;<br><br>If you have any questions, feel free to reply directly to this email or reach out to your manager.<br><br>
+<p data-path-to-node="6">Best regards,</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr class="em-structure">
+<td class="em-mob-padding_left-20 em-mob-padding_right-20" style="padding-right: 30px; padding-left: 30px; background-color: rgb(255, 255, 255); width: 558.4px;" align="center" bgcolor="#FFFFFF">
+<table class="em-mob-width-100perc" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="em-mob-wrap em-mob-width-100perc" valign="top" width="580">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding-top: 24px; padding-right: 0px; padding-left: 0px; border-top: 1px solid #bfbfbf;" height="0">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr class="em-structure">
+<td class="em-mob-padding_left-20 em-mob-padding_right-20" style="padding: 8px 40px 32px; background-color: rgb(255, 255, 255); width: 558.4px;" align="center" bgcolor="#FFFFFF">
+<table class="em-mob-width-100perc" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="em-mob-wrap em-mob-width-100perc" valign="middle" width="98">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="em-mob-text_align-center" align="left"><img style="display: inline-block; width: 100%; max-width: 98px;" title="Gemini_Generated_Image_ab5qkeab5qkeab5q.png" src="/sys_attachment.do?sys_id=59020601c3a083104a9d563ed4013155" alt="" width="98" border="0"></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="em-mob-wrap" width="32">&nbsp;</td>
+<td class="em-mob-wrap em-mob-width-100perc" valign="middle" width="430">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding-right: 0px; padding-bottom: 2px; padding-left: 0px;">
+<div class="font-mulish-700 em-mob-text_align-center" style="font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; font-size: 16px; line-height: 24px; color: #333333;" align="left"><strong>${category.assignment_group.manager.name}</strong></div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding-bottom: 4px;">
+<div class="font-mulish em-mob-text_align-center" style="font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 20px; color: #595959;" align="left">${category.assignment_group.manager.title}</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding-bottom: 4px;">
+<div class="font-mulish em-mob-text_align-center" style="font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 20px; color: #595959;"><a style="text-decoration: none; color: #595959;" href="mailto:john@frommarketing.com" target="_blank" rel="noopener"><img style="display: inline-block; vertical-align: text-bottom; width: 100%; max-width: 20px;" src="https://cdn.useblocks.io/1865/230705_18_DIMVTws.png" alt="" width="20" border="0"> ${category.assignment_group.manager.email}</a></div>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="height: 20.8px;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr style="height: 20.8px;">
+<td style="height: 20.8px;">
+<div class="font-mulish em-mob-text_align-center" style="font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 20px; color: #595959;"><a style="text-decoration: none; color: #595959;" href="tel:+123456789" target="_blank" rel="noopener"><img style="display: inline-block; vertical-align: text-bottom; width: 100%; max-width: 20px;" src="https://cdn.useblocks.io/1865/230705_18_Bb12QfF.png" alt="" width="20" border="0">&nbsp; +55 12345-6789</a></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- [if (gte mso 9)|(IE)]>
+				</td></tr></table>
+				<![endif]-->]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Refund Reproved</name>
+        <omit_watermark>false</omit_watermark>
+        <order>100</order>
+        <push_message_only>false</push_message_only>
+        <recipient_fields>opened_by</recipient_fields>
+        <recipient_groups/>
+        <recipient_users/>
+        <reply_to/>
+        <send_self>true</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject>Update on your Refund Request '${number}'  - Rejected</subject>
+        <subscribable>false</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-27 20:37:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>46317181c32083104a9d563ed40131e2</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Refund Reproved</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="HR System - Refund" source="x_1590365_hr_sys_0">d34f1c4dc36443104a9d563ed4013144</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR System - Refund">d34f1c4dc36443104a9d563ed4013144</sys_scope>
+        <sys_update_name>sysevent_email_action_46317181c32083104a9d563ed40131e2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-27 22:04:20</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template/>
+        <type>email</type>
+        <weight>0</weight>
+    </sysevent_email_action>
+</record_update>
