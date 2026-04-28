@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Refund System">515d2589c3ec43104a9d563ed4013134</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Integration Properties</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>900</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>system_properties_ui.do?sysparm_title=FreeCurrency Integration Properties&amp;sysparm_category=HR System - Refund</query>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>admin,x_1590365_hr_sys_0.hr_manager</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-28 15:16:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>45223d99c3acc3104a9d563ed4013172</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Integration Properties</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="HR System - Refund" source="x_1590365_hr_sys_0">d34f1c4dc36443104a9d563ed4013144</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR System - Refund">d34f1c4dc36443104a9d563ed4013144</sys_scope>
+        <sys_update_name>sys_app_module_45223d99c3acc3104a9d563ed4013172</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-28 15:16:56</sys_updated_on>
+        <timeline_page/>
+        <title>Integration Properties</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
