@@ -70,7 +70,7 @@
 <tbody>
 <tr>
 <td>
-<div class="font-mulish" style="font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; font-size: 16px; line-height: 24px; color: #595959;" align="left">Dear ${opened_by.first_name},<br><br>I&rsquo;m ${category.assignment_group.manager.name}, HR Manager of HR System -&nbsp; Refund.<br><br>We have reviewed your recent refund request ${number} submitted on ${refund_date}. Unfortunately, we are unable to approve your request at this time.&nbsp;<br><br>Your request was rejected for the following reason:</div>
+<div class="font-mulish" style="font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; font-size: 16px; line-height: 24px; color: #595959;" align="left">Dear ${opened_by.first_name},<br><br>I&rsquo;m ${category.assignment_group.manager.name}, HR Manager of HR System - Refund.<br><br>We have reviewed your recent refund request ${number} submitted on ${receipt_date}. Unfortunately, we are unable to approve your request at this time.&nbsp;<br><br>Your request was rejected for the following reason:</div>
 <div class="font-mulish" style="font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; font-size: 16px; line-height: 24px; color: #595959;" align="left">${reproval_reason}<br><br>If you have additional information, missing receipts, or believe this decision was made in error, you can update and resubmit your request directly through the HR Portal. Please ensure that all future requests align with the HR System -Refund expense policy.&nbsp;<br><br>If you have any questions, feel free to reply directly to this email or reach out to your manager.<br><br>
 <p data-path-to-node="6">Best regards,</p>
 </div>
@@ -187,7 +187,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>46317181c32083104a9d563ed40131e2</sys_id>
-        <sys_mod_count>13</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_name>Refund Reproved</sys_name>
         <sys_overrides/>
         <sys_package display_value="HR System - Refund" source="x_1590365_hr_sys_0">d34f1c4dc36443104a9d563ed4013144</sys_package>
@@ -195,7 +195,7 @@
         <sys_scope display_value="HR System - Refund">d34f1c4dc36443104a9d563ed4013144</sys_scope>
         <sys_update_name>sysevent_email_action_46317181c32083104a9d563ed40131e2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-27 22:04:20</sys_updated_on>
+        <sys_updated_on>2026-04-29 20:14:06</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>

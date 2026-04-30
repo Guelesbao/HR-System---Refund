@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_process_flow">
+    <sys_process_flow action="DELETE">
+        <active>true</active>
+        <condition table="x_1590365_hr_sys_0_refund">state=8^EQ<item display_value="Awaiting Refund Resolvers" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="8"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description/>
+        <label>Awaiting Refund Resolvers</label>
+        <name>awaiting refund resolvers</name>
+        <order>300</order>
+        <sys_class_name>sys_process_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-29 14:34:11</sys_created_on>
+        <sys_id>0c727ae5c36487104a9d563ed40131f9</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>awaiting refund resolvers</sys_name>
+        <sys_package display_value="HR System - Refund" source="x_1590365_hr_sys_0">d34f1c4dc36443104a9d563ed4013144</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR System - Refund">d34f1c4dc36443104a9d563ed4013144</sys_scope>
+        <sys_update_name>sys_process_flow_0c727ae5c36487104a9d563ed40131f9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-29 16:30:19</sys_updated_on>
+        <table>x_1590365_hr_sys_0_refund</table>
+    </sys_process_flow>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="HR System - Refund">d34f1c4dc36443104a9d563ed4013144</application>
+        <file_path/>
+        <instance_id>71890fc9ffb52e14c80bf8e4fc4fd9a0</instance_id>
+        <instance_name>dev350289</instance_name>
+        <name>sys_process_flow_0c727ae5c36487104a9d563ed40131f9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_process_flow"><sys_process_flow action="INSERT_OR_UPDATE"><active>true</active><condition table="x_1590365_hr_sys_0_refund">state=8^EQ<item display_value="Awaiting Refund Resolvers" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="8"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></condition><description/><label>Awaiting Refund Resolvers</label><name>awaiting refund resolvers</name><order>300</order><sys_class_name>sys_process_flow</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-29 14:34:11</sys_created_on><sys_id>0c727ae5c36487104a9d563ed40131f9</sys_id><sys_mod_count>4</sys_mod_count><sys_name>awaiting refund resolvers</sys_name><sys_package display_value="HR System - Refund" source="x_1590365_hr_sys_0">d34f1c4dc36443104a9d563ed4013144</sys_package><sys_policy/><sys_scope display_value="HR System - Refund">d34f1c4dc36443104a9d563ed4013144</sys_scope><sys_update_name>sys_process_flow_0c727ae5c36487104a9d563ed40131f9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-29 16:30:19</sys_updated_on><table>x_1590365_hr_sys_0_refund</table></sys_process_flow></record_update>]]></payload>
+        <payload_hash>1742802486</payload_hash>
+        <record_name>awaiting refund resolvers</record_name>
+        <reverted_from/>
+        <source>3affd689c36483104a9d563ed401315a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-29 16:30:19</sys_created_on>
+        <sys_id>890dc3a9c32887104a9d563ed40131e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19dda13bb020000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-29 16:30:19</sys_updated_on>
+        <type>Flow Formatter</type>
+        <update_guid>850dc3a9c8288710cd410b9e815793e4</update_guid>
+        <update_guid_history>850dc3a9c8288710cd410b9e815793e4:1742802486,63bc03a9f228871072f985658e4fe469:-1066577147,358c0b69d5288710ddc85102226ed8b0:719005484,0603fa6948648710e5924ceb0a0ef27f:-1066577147,4c727ae5d4648710e96670a08397f4fb:-1670114392</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-29 16:49:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_process_flow">sys_process_flow</sys_db_object>
+        <sys_id>302069773421466b8c27d2d3dc238ca9</sys_id>
+        <sys_metadata>0c727ae5c36487104a9d563ed40131f9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>awaiting refund resolvers</sys_name>
+        <sys_package display_value="HR System - Refund" source="x_1590365_hr_sys_0">d34f1c4dc36443104a9d563ed4013144</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="HR System - Refund">d34f1c4dc36443104a9d563ed4013144</sys_scope>
+        <sys_scope_delete display_value="">0c971c5a0968402cb2820a0a3b8b7af9</sys_scope_delete>
+        <sys_update_name>sys_process_flow_0c727ae5c36487104a9d563ed40131f9</sys_update_name>
+        <sys_update_version display_value="sys_process_flow_0c727ae5c36487104a9d563ed40131f9">890dc3a9c32887104a9d563ed40131e5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-29 16:49:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

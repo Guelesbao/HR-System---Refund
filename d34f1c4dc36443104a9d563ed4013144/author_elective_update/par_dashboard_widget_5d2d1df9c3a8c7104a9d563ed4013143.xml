@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">d374413dc3e4c7104a9d563ed4013145</canvas>
+        <component display_value="Rich text">2d56f06d55f46bbd4e79b5e624beb940</component>
+        <component_props>{"html":"&lt;style&gt;\n    /* Definição do card padrão com tons de branco/cinza muito claro */\n    .sn-overview-card {\n        background-color: #fcfcfc; /* Branco bem levemente acinzentado */\n        border: 1px solid #e0e0e0; /* Borda cinza clara */\n        border-left: 5px solid #8e9eab; /* Destaque lateral cinza médio */\n        padding: 20px 24px;\n        border-radius: 8px;\n        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);\n        font-family: 'Source Sans Pro', Arial, sans-serif;\n        color: #2e3840; /* Texto em cinza escuro para boa leitura */\n        transition: background-color 0.3s ease, box-shadow 0.3s ease; /* Animação suave */\n    }\n\n    /* Efeito de Hover (Cinza) */\n    .sn-overview-card:hover {\n        background-color: #f0f2f5; /* Fundo cinza ao passar o mouse */\n        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08); /* Sombra levemente maior */\n        border-left: 5px solid #6b7a87; /* Borda lateral fica mais escura no hover */\n    }\n\n    /* Estilização do Título e Texto */\n    .sn-overview-title {\n        margin-top: 0;\n        margin-bottom: 8px;\n        font-size: 22px;\n        font-weight: 600;\n        display: flex;\n        align-items: center;\n        gap: 8px;\n    }\n\n    .sn-overview-desc {\n        color: #5c6873; /* Texto descritivo um pouco mais claro */\n        font-size: 15px;\n        margin-bottom: 0;\n        line-height: 1.5;\n    }\n&lt;/style&gt;\n&lt;div class=\"sn-overview-card\"&gt;\n&lt;h2 class=\"sn-overview-title\"&gt;&lt;span style=\"font-size: 20px;\"&gt;📊&lt;/span&gt; Overview &amp;amp; Volume&lt;/h2&gt;\n&lt;p class=\"sn-overview-desc\"&gt;&lt;em&gt;High-level summary of reimbursement trends, total volumes, financial impact, and current status distribution.&lt;/em&gt;&lt;/p&gt;\n&lt;/div&gt;","id":"html","value":"&lt;style&gt;\n    /* Definição do card padrão com tons de branco/cinza muito claro */\n    .sn-overview-card {\n        background-color: #fcfcfc; /* Branco bem levemente acinzentado */\n        border: 1px solid #e0e0e0; /* Borda cinza clara */\n        border-left: 5px solid #8e9eab; /* Destaque lateral cinza médio */\n        padding: 20px 24px;\n        border-radius: 8px;\n        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);\n        font-family: 'Source Sans Pro', Arial, sans-serif;\n        color: #2e3840; /* Texto em cinza escuro para boa leitura */\n        transition: background-color 0.3s ease, box-shadow 0.3s ease; /* Animação suave */\n    }\n\n    /* Efeito de Hover (Cinza) */\n    .sn-overview-card:hover {\n        background-color: #f0f2f5; /* Fundo cinza ao passar o mouse */\n        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08); /* Sombra levemente maior */\n        border-left: 5px solid #6b7a87; /* Borda lateral fica mais escura no hover */\n    }\n\n    /* Estilização do Título e Texto */\n    .sn-overview-title {\n        margin-top: 0;\n        margin-bottom: 8px;\n        font-size: 22px;\n        font-weight: 600;\n        display: flex;\n        align-items: center;\n        gap: 8px;\n    }\n\n    .sn-overview-desc {\n        color: #5c6873; /* Texto descritivo um pouco mais claro */\n        font-size: 15px;\n        margin-bottom: 0;\n        line-height: 1.5;\n    }\n&lt;/style&gt;\n&lt;div class=\"sn-overview-card\"&gt;\n&lt;h2 class=\"sn-overview-title\"&gt;&lt;span style=\"font-size: 20px;\"&gt;📊&lt;/span&gt; Overview &amp;amp; Volume&lt;/h2&gt;\n&lt;p class=\"sn-overview-desc\"&gt;&lt;em&gt;High-level summary of reimbursement trends, total volumes, financial impact, and current status distribution.&lt;/em&gt;&lt;/p&gt;\n&lt;/div&gt;","noDebounce":true,"propLabel":"HTML"}</component_props>
+        <h>6</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-30 03:00:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5d2d1df9c3a8c7104a9d563ed4013143</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="HR System - Refund" source="x_1590365_hr_sys_0">d34f1c4dc36443104a9d563ed4013144</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR System - Refund">d34f1c4dc36443104a9d563ed4013144</sys_scope>
+        <sys_update_name>par_dashboard_widget_5d2d1df9c3a8c7104a9d563ed4013143</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-30 03:03:26</sys_updated_on>
+        <visualization/>
+        <w>34</w>
+        <widget_props/>
+        <x>7</x>
+        <y>0</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="HR System - Refund">d34f1c4dc36443104a9d563ed4013144</application>
+        <file_path/>
+        <instance_id>71890fc9ffb52e14c80bf8e4fc4fd9a0</instance_id>
+        <instance_name>dev350289</instance_name>
+        <name>par_dashboard_widget_5d2d1df9c3a8c7104a9d563ed4013143</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">d374413dc3e4c7104a9d563ed4013145</canvas><component display_value="Rich text">2d56f06d55f46bbd4e79b5e624beb940</component><component_props>{"html":"&lt;style&gt;\n    /* Definição do card padrão com tons de branco/cinza muito claro */\n    .sn-overview-card {\n        background-color: #fcfcfc; /* Branco bem levemente acinzentado */\n        border: 1px solid #e0e0e0; /* Borda cinza clara */\n        border-left: 5px solid #8e9eab; /* Destaque lateral cinza médio */\n        padding: 20px 24px;\n        border-radius: 8px;\n        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);\n        font-family: 'Source Sans Pro', Arial, sans-serif;\n        color: #2e3840; /* Texto em cinza escuro para boa leitura */\n        transition: background-color 0.3s ease, box-shadow 0.3s ease; /* Animação suave */\n    }\n\n    /* Efeito de Hover (Cinza) */\n    .sn-overview-card:hover {\n        background-color: #f0f2f5; /* Fundo cinza ao passar o mouse */\n        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08); /* Sombra levemente maior */\n        border-left: 5px solid #6b7a87; /* Borda lateral fica mais escura no hover */\n    }\n\n    /* Estilização do Título e Texto */\n    .sn-overview-title {\n        margin-top: 0;\n        margin-bottom: 8px;\n        font-size: 22px;\n        font-weight: 600;\n        display: flex;\n        align-items: center;\n        gap: 8px;\n    }\n\n    .sn-overview-desc {\n        color: #5c6873; /* Texto descritivo um pouco mais claro */\n        font-size: 15px;\n        margin-bottom: 0;\n        line-height: 1.5;\n    }\n&lt;/style&gt;\n&lt;div class=\"sn-overview-card\"&gt;\n&lt;h2 class=\"sn-overview-title\"&gt;&lt;span style=\"font-size: 20px;\"&gt;]]>📊<![CDATA[&lt;/span&gt; Overview &amp;amp; Volume&lt;/h2&gt;\n&lt;p class=\"sn-overview-desc\"&gt;&lt;em&gt;High-level summary of reimbursement trends, total volumes, financial impact, and current status distribution.&lt;/em&gt;&lt;/p&gt;\n&lt;/div&gt;","id":"html","value":"&lt;style&gt;\n    /* Definição do card padrão com tons de branco/cinza muito claro */\n    .sn-overview-card {\n        background-color: #fcfcfc; /* Branco bem levemente acinzentado */\n        border: 1px solid #e0e0e0; /* Borda cinza clara */\n        border-left: 5px solid #8e9eab; /* Destaque lateral cinza médio */\n        padding: 20px 24px;\n        border-radius: 8px;\n        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);\n        font-family: 'Source Sans Pro', Arial, sans-serif;\n        color: #2e3840; /* Texto em cinza escuro para boa leitura */\n        transition: background-color 0.3s ease, box-shadow 0.3s ease; /* Animação suave */\n    }\n\n    /* Efeito de Hover (Cinza) */\n    .sn-overview-card:hover {\n        background-color: #f0f2f5; /* Fundo cinza ao passar o mouse */\n        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08); /* Sombra levemente maior */\n        border-left: 5px solid #6b7a87; /* Borda lateral fica mais escura no hover */\n    }\n\n    /* Estilização do Título e Texto */\n    .sn-overview-title {\n        margin-top: 0;\n        margin-bottom: 8px;\n        font-size: 22px;\n        font-weight: 600;\n        display: flex;\n        align-items: center;\n        gap: 8px;\n    }\n\n    .sn-overview-desc {\n        color: #5c6873; /* Texto descritivo um pouco mais claro */\n        font-size: 15px;\n        margin-bottom: 0;\n        line-height: 1.5;\n    }\n&lt;/style&gt;\n&lt;div class=\"sn-overview-card\"&gt;\n&lt;h2 class=\"sn-overview-title\"&gt;&lt;span style=\"font-size: 20px;\"&gt;]]>📊<![CDATA[&lt;/span&gt; Overview &amp;amp; Volume&lt;/h2&gt;\n&lt;p class=\"sn-overview-desc\"&gt;&lt;em&gt;High-level summary of reimbursement trends, total volumes, financial impact, and current status distribution.&lt;/em&gt;&lt;/p&gt;\n&lt;/div&gt;","noDebounce":true,"propLabel":"HTML"}</component_props><h>6</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-30 03:00:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5d2d1df9c3a8c7104a9d563ed4013143</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="HR System - Refund" source="x_1590365_hr_sys_0">d34f1c4dc36443104a9d563ed4013144</sys_package><sys_policy/><sys_scope display_value="HR System - Refund">d34f1c4dc36443104a9d563ed4013144</sys_scope><sys_update_name>par_dashboard_widget_5d2d1df9c3a8c7104a9d563ed4013143</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-30 03:03:26</sys_updated_on><visualization/><w>34</w><widget_props/><x>7</x><y>0</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-1987074985</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>3affd689c36483104a9d563ed401315a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-30 03:03:26</sys_created_on>
+        <sys_id>67ed5dfdc3a8c7104a9d563ed4013166</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19ddc575f850000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-30 03:03:26</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>53ed5dfdcea8c71048b6cef37f495265</update_guid>
+        <update_guid_history>53ed5dfdcea8c71048b6cef37f495265:-1987074985,9d2d1df9f7a8c71088332ccd72fa6745:1070862682</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">468f11f1c3e8c7104a9d563ed401316f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-30 03:10:27</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>3f1b833c570a4a9aae576c70751108c4</sys_id>
+        <sys_metadata>5d2d1df9c3a8c7104a9d563ed4013143</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="HR System - Refund" source="x_1590365_hr_sys_0">d34f1c4dc36443104a9d563ed4013144</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="HR System - Refund">d34f1c4dc36443104a9d563ed4013144</sys_scope>
+        <sys_scope_delete display_value="">0c971c5a0968402cb2820a0a3b8b7af9</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_5d2d1df9c3a8c7104a9d563ed4013143</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_5d2d1df9c3a8c7104a9d563ed4013143">67ed5dfdc3a8c7104a9d563ed4013166</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-30 03:10:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

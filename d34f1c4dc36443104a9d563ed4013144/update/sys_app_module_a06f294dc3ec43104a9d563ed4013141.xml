@@ -13,7 +13,7 @@
         <mobile_title>Create new</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_1590365_hr_sys_0_refund_category</name>
-        <order>700</order>
+        <order>800</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -25,7 +25,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a06f294dc3ec43104a9d563ed4013141</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>All</sys_name>
         <sys_overrides/>
         <sys_package display_value="HR System - Refund" source="x_1590365_hr_sys_0">d34f1c4dc36443104a9d563ed4013144</sys_package>
@@ -33,7 +33,7 @@
         <sys_scope display_value="HR System - Refund">d34f1c4dc36443104a9d563ed4013144</sys_scope>
         <sys_update_name>sys_app_module_a06f294dc3ec43104a9d563ed4013141</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-27 20:24:16</sys_updated_on>
+        <sys_updated_on>2026-04-29 22:06:49</sys_updated_on>
         <timeline_page/>
         <title>All</title>
         <uncancelable>false</uncancelable>

@@ -65,13 +65,13 @@
 <table class="em-mob-width-100perc" border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td class="em-mob-wrap em-mob-width-100perc" valign="top" width="640">f you have additional information, missing receipts, or believe this decision was made in error, you can update and resubmit your request directly through the HR Portal. Please ensure that all future requests align with the HR System -Refund expense policy.&nbsp;
+<td class="em-mob-wrap em-mob-width-100perc" valign="top" width="640"><br>
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
 <td>
 <div class="font-mulish" style="font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; font-size: 16px; line-height: 24px; color: #595959;" align="left">Dear ${opened_by.first_name},<br><br>I&rsquo;m ${category.assignment_group.manager.name}, HR Manager of HR System -&nbsp; Refund.<br><br>This email is to confirm that the payment for your refund request ${number} has been successfully processed and completed.</div>
-<div class="font-mulish" style="font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; font-size: 16px; line-height: 24px; color: #595959;" align="left"><br>The total amount of $${refund_in_dollars} was transferred to your registered bank account on [Payment Date].&nbsp;</div>
+<div class="font-mulish" style="font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; font-size: 16px; line-height: 24px; color: #595959;" align="left"><br>The total amount of $${refund_in_dollars} was transferred to your registered bank account.&nbsp;</div>
 <div class="font-mulish" style="font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; font-size: 16px; line-height: 24px; color: #595959;" align="left"><br>Please note that it may take, e.g., 1-2, business days for the funds to reflect in your account, depending on your bank's processing times.<br><br>If you have any questions or do not see the funds in your account by the expected date, please reply directly to this email.<br><br>
 <p data-path-to-node="6">Best regards,</p>
 </div>
@@ -188,7 +188,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>1e191a09c32483104a9d563ed4013192</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Refund Completed Successfully</sys_name>
         <sys_overrides/>
         <sys_package display_value="HR System - Refund" source="x_1590365_hr_sys_0">d34f1c4dc36443104a9d563ed4013144</sys_package>
@@ -196,7 +196,7 @@
         <sys_scope display_value="HR System - Refund">d34f1c4dc36443104a9d563ed4013144</sys_scope>
         <sys_update_name>sysevent_email_action_1e191a09c32483104a9d563ed4013192</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-27 23:26:31</sys_updated_on>
+        <sys_updated_on>2026-04-29 21:30:27</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>

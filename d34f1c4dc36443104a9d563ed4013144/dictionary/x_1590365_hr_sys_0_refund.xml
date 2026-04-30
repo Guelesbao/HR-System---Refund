@@ -13,6 +13,12 @@
             </choice>
         </element>
         <element label="Receipt Date" max_length="40" name="receipt_date" type="glide_date"/>
+        <element choice="1" label="Payment Status" max_length="40" name="payment_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Awaiting Payment" sequence="1" value="5"/>
+                <element inactive_on_update="false" label="Payment Made" sequence="2" value="3"/>
+            </choice>
+        </element>
         <element default="0" label="Refund in Dollars" max_length="255" name="refund_in_dollars" type="float"/>
         <element label="Refund Receipt" max_length="40" name="refund_receipt" type="file_attachment"/>
     </element>

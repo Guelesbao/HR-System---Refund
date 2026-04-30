@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">a374413dc3e4c7104a9d563ed4013177</canvas>
+        <component display_value="Rich text">2d56f06d55f46bbd4e79b5e624beb940</component>
+        <component_props>{"html":"&lt;p style=\"text-align: center;\"&gt;&lt;span style=\"font-family: 'arial black', 'avant garde'; font-size: 18pt;\"&gt;High-level summary of refunds trends.&lt;/span&gt;&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;span style=\"font-family: 'arial black', 'avant garde'; font-size: 18pt;\"&gt;Total volumes, financial impact.&lt;/span&gt;&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;span style=\"font-family: 'arial black', 'avant garde'; font-size: 18pt;\"&gt;And current category distribution.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;","id":"html","value":"&lt;p style=\"text-align: center;\"&gt;&lt;span style=\"font-family: 'arial black', 'avant garde'; font-size: 18pt;\"&gt;High-level summary of refunds trends.&lt;/span&gt;&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;span style=\"font-family: 'arial black', 'avant garde'; font-size: 18pt;\"&gt;Total volumes, financial impact.&lt;/span&gt;&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;span style=\"font-family: 'arial black', 'avant garde'; font-size: 18pt;\"&gt;And current category distribution.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;","noDebounce":true,"propLabel":"HTML"}</component_props>
+        <h>29</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-30 02:33:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>12171d71c3a8c7104a9d563ed4013150</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="HR System - Refund" source="x_1590365_hr_sys_0">d34f1c4dc36443104a9d563ed4013144</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR System - Refund">d34f1c4dc36443104a9d563ed4013144</sys_scope>
+        <sys_update_name>par_dashboard_widget_12171d71c3a8c7104a9d563ed4013150</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-30 02:40:29</sys_updated_on>
+        <visualization/>
+        <w>9</w>
+        <widget_props/>
+        <x>1</x>
+        <y>0</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="HR System - Refund">d34f1c4dc36443104a9d563ed4013144</application>
+        <file_path/>
+        <instance_id>71890fc9ffb52e14c80bf8e4fc4fd9a0</instance_id>
+        <instance_name>dev350289</instance_name>
+        <name>par_dashboard_widget_12171d71c3a8c7104a9d563ed4013150</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">a374413dc3e4c7104a9d563ed4013177</canvas><component display_value="Rich text">2d56f06d55f46bbd4e79b5e624beb940</component><component_props>{"html":"&lt;p style=\"text-align: center;\"&gt;&lt;span style=\"font-family: 'arial black', 'avant garde'; font-size: 18pt;\"&gt;High-level summary of refunds trends.&lt;/span&gt;&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;span style=\"font-family: 'arial black', 'avant garde'; font-size: 18pt;\"&gt;Total volumes, financial impact.&lt;/span&gt;&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;span style=\"font-family: 'arial black', 'avant garde'; font-size: 18pt;\"&gt;And current category distribution.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;","id":"html","value":"&lt;p style=\"text-align: center;\"&gt;&lt;span style=\"font-family: 'arial black', 'avant garde'; font-size: 18pt;\"&gt;High-level summary of refunds trends.&lt;/span&gt;&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;span style=\"font-family: 'arial black', 'avant garde'; font-size: 18pt;\"&gt;Total volumes, financial impact.&lt;/span&gt;&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;span style=\"font-family: 'arial black', 'avant garde'; font-size: 18pt;\"&gt;And current category distribution.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;","noDebounce":true,"propLabel":"HTML"}</component_props><h>29</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-30 02:33:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>12171d71c3a8c7104a9d563ed4013150</sys_id><sys_mod_count>3</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="HR System - Refund" source="x_1590365_hr_sys_0">d34f1c4dc36443104a9d563ed4013144</sys_package><sys_policy/><sys_scope display_value="HR System - Refund">d34f1c4dc36443104a9d563ed4013144</sys_scope><sys_update_name>par_dashboard_widget_12171d71c3a8c7104a9d563ed4013150</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-30 02:40:29</sys_updated_on><visualization/><w>9</w><widget_props/><x>1</x><y>0</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-204278740</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>3affd689c36483104a9d563ed401315a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-30 02:40:29</sys_created_on>
+        <sys_id>57a85d35c3a8c7104a9d563ed40131eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19ddc425bc00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-30 02:40:29</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>53a85d3536a8c710cfd78c9bb79b91ea</update_guid>
+        <update_guid_history>53a85d3536a8c710cfd78c9bb79b91ea:-204278740,2888193583a8c7107f90aad6fb11ab80:-686772569,26971db1d7a8c7105f4f876e366990c6:-301315493,de171d7198a8c7104126b18929d14c51:641289882</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">681a9df5c3a8c7104a9d563ed401310e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-30 02:46:35</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>709fc6c0c22e47d98e2bd4966de70089</sys_id>
+        <sys_metadata>12171d71c3a8c7104a9d563ed4013150</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="HR System - Refund" source="x_1590365_hr_sys_0">d34f1c4dc36443104a9d563ed4013144</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="HR System - Refund">d34f1c4dc36443104a9d563ed4013144</sys_scope>
+        <sys_scope_delete display_value="">0c971c5a0968402cb2820a0a3b8b7af9</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_12171d71c3a8c7104a9d563ed4013150</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_12171d71c3a8c7104a9d563ed4013150">57a85d35c3a8c7104a9d563ed40131eb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-30 02:46:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

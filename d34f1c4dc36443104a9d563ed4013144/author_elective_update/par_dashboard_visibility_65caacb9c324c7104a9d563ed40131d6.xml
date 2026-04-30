@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_visibility">
+    <par_dashboard_visibility action="DELETE">
+        <dashboard display_value="Refund Dashboard">e0ca2cb9c324c7104a9d563ed40131b9</dashboard>
+        <experience display_value="Service Operations Workspace">aa881cad73c4301045216238edf6a716</experience>
+        <sys_class_name>par_dashboard_visibility</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-29 23:19:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>65caacb9c324c7104a9d563ed40131d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="HR System - Refund" source="x_1590365_hr_sys_0">d34f1c4dc36443104a9d563ed4013144</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR System - Refund">d34f1c4dc36443104a9d563ed4013144</sys_scope>
+        <sys_update_name>par_dashboard_visibility_65caacb9c324c7104a9d563ed40131d6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-29 23:19:57</sys_updated_on>
+    </par_dashboard_visibility>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="HR System - Refund">d34f1c4dc36443104a9d563ed4013144</application>
+        <file_path/>
+        <instance_id>71890fc9ffb52e14c80bf8e4fc4fd9a0</instance_id>
+        <instance_name>dev350289</instance_name>
+        <name>par_dashboard_visibility_65caacb9c324c7104a9d563ed40131d6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_visibility"><par_dashboard_visibility action="INSERT_OR_UPDATE"><dashboard display_value="Refund Dashboard">e0ca2cb9c324c7104a9d563ed40131b9</dashboard><experience display_value="Service Operations Workspace">aa881cad73c4301045216238edf6a716</experience><sys_class_name>par_dashboard_visibility</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-29 23:19:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>65caacb9c324c7104a9d563ed40131d6</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="HR System - Refund" source="x_1590365_hr_sys_0">d34f1c4dc36443104a9d563ed4013144</sys_package><sys_policy/><sys_scope display_value="HR System - Refund">d34f1c4dc36443104a9d563ed4013144</sys_scope><sys_update_name>par_dashboard_visibility_65caacb9c324c7104a9d563ed40131d6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-29 23:19:57</sys_updated_on></par_dashboard_visibility></record_update>]]></payload>
+        <payload_hash>-875595689</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>3affd689c36483104a9d563ed401315a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-29 23:19:57</sys_created_on>
+        <sys_id>e5caacb9c324c7104a9d563ed40131d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19ddb8ac37e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-29 23:19:57</sys_updated_on>
+        <type>PAR Dashboard Visibility</type>
+        <update_guid>a1caacb99d24c710d786d265d35a8dd8</update_guid>
+        <update_guid_history>a1caacb99d24c710d786d265d35a8dd8:-875595689</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">cb648df9c3e4c7104a9d563ed401314f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-30 01:12:00</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_visibility">par_dashboard_visibility</sys_db_object>
+        <sys_id>0806f79ba97048fc8ae1de0c2fd30110</sys_id>
+        <sys_metadata>65caacb9c324c7104a9d563ed40131d6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="HR System - Refund" source="x_1590365_hr_sys_0">d34f1c4dc36443104a9d563ed4013144</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="HR System - Refund">d34f1c4dc36443104a9d563ed4013144</sys_scope>
+        <sys_scope_delete display_value="">0c971c5a0968402cb2820a0a3b8b7af9</sys_scope_delete>
+        <sys_update_name>par_dashboard_visibility_65caacb9c324c7104a9d563ed40131d6</sys_update_name>
+        <sys_update_version display_value="par_dashboard_visibility_65caacb9c324c7104a9d563ed40131d6">e5caacb9c324c7104a9d563ed40131d9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-30 01:12:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

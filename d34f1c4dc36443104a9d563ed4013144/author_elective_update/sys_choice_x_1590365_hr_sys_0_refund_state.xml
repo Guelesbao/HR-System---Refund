@@ -58,25 +58,6 @@
             <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Awaiting Refund Resolvers</label>
-            <language>en</language>
-            <name>x_1590365_hr_sys_0_refund</name>
-            <sequence>3</sequence>
-            <synonyms/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-04-27 19:58:39</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>3</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-04-27 20:06:41</sys_updated_on>
-            <value>8</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
-            <hint/>
-            <inactive>false</inactive>
             <label>Approved</label>
             <language>en</language>
             <name>x_1590365_hr_sys_0_refund</name>

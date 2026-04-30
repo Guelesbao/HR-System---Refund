@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">a374413dc3e4c7104a9d563ed4013177</canvas>
+        <component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component>
+        <component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","scoreSize":"xl","headingPosition":"top","sparklineStyle":"area","scoreIcon":"currency-outline","iconStyle":"no-background","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":false,"showZero":false,"colorConfig":{"type":"singleColor","values":[{"color":"65b30218a9fe3dba0120df8611520d97","iconColor":"65b30308a9fe3dba009a819dbfcf4a78","metric":"ZEdGaWJHVjRYekUxT1RBek5qVmZhSEpmYzNselh6QmZjbVZtZFc1a01UYzNOelV4TVRZek56a3pPQT09MTc3NzUxMTYzODg0Nw==","rules":[{"operator":"&gt;","order":100,"color":"65b302f4a9fe3dba01f112886ba36463","value1":15000,"iconColor":"65b3022ca9fe3dba00b0c2a1508ad489"},{"operator":"&lt;","order":100,"color":"65b30308a9fe3dba009a819dbfcf4a78","iconColor":"e5e589b3d7332100fa6c0c12ce610388","value1":15000}]}]},"newReporting":false,"additionalGroupByConfig":[],"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Refund","sourceType":"table","tableOrViewName":"x_1590365_hr_sys_0_refund","filterQuery":"opened_atONThis month@javascript:gs.beginningOfThisMonth()@javascript:gs.endOfThisMonth()^payment_status=3","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4XzE1OTAzNjVfaHJfc3lzXzBfcmVmdW5kMTc3NzUxMTYzNzkzOA==","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":true,"showHeaderSeparator":true,"showBorder":true,"bareBorder":false,"dataCategory":"group","telemetry":null,"showDataPassthrough":false,"showAdditionalGroupBySelector":false,"metrics":[{"dataSource":"dGFibGV4XzE1OTAzNjVfaHJfc3lzXzBfcmVmdW5kMTc3NzUxMTYzNzkzOA==","id":"ZEdGaWJHVjRYekUxT1RBek5qVmZhSEpmYzNselh6QmZjbVZtZFc1a01UYzNOelV4TVRZek56a3pPQT09MTc3NzUxMTYzODg0Nw==","aggregateFunction":"SUM","axisId":"primary","aggregateField":"refund_in_dollars","numberFormat":{"customFormat":true,"rounding":"HALF_DOWN","decimalPrecision":2,"abbreviationEnabled":true,"numberInTooltipsEnabled":true,"thousandSeparatorEnabled":false},"label":""}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableCustomEmptyState":false,"emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","refreshFrequency":"","filterConfigurations":"@state.parFilters","contextMenuActions":[],"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","componentId":"hp2k7p7f","noDebounce":true,"showDateRangeByDefault":false,"allowChangeDateRange":false,"headerTitle":"Total Refund Amount in Dollars","description":"Total amount of refunds paid this month.\n","showLoadingIndicator":false,"id":"headerTitle","value":"Total Refund Amount in Dollars","propLabel":"Chart title","filterPerMetric":[],"showFilterAsSeparateSeries":false,"chartInteractionAction":"goToData","chartInteractionEnabled":true}</component_props>
+        <h>13</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-30 02:30:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8e569131c3a8c7104a9d563ed4013131</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="HR System - Refund" source="x_1590365_hr_sys_0">d34f1c4dc36443104a9d563ed4013144</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR System - Refund">d34f1c4dc36443104a9d563ed4013144</sys_scope>
+        <sys_update_name>par_dashboard_widget_8e569131c3a8c7104a9d563ed4013131</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-30 03:22:40</sys_updated_on>
+        <visualization/>
+        <w>23</w>
+        <widget_props/>
+        <x>25</x>
+        <y>0</y>
+    </par_dashboard_widget>
+</record_update>

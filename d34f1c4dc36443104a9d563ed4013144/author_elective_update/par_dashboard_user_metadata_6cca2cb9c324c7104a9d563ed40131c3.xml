@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_user_metadata">
+    <par_dashboard_user_metadata action="DELETE">
+        <background_color/>
+        <cache_expiration_time>24</cache_expiration_time>
+        <card_bg_image/>
+        <created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user>
+        <created_on>2026-04-29 23:19:53</created_on>
+        <dashboard display_value="Refund Dashboard">e0ca2cb9c324c7104a9d563ed40131b9</dashboard>
+        <edit_locked>{"sysId":"6816f79cc0a8016401c5a33be04be441","name":"System Administrator","avatar":"a5d3c898c3222010ae17dd981840dd8b.iix?t=small","lockedOn":"1777511450256"}</edit_locked>
+        <enable_data_cache>false</enable_data_cache>
+        <include_custom_insights>true</include_custom_insights>
+        <include_key_contributors>true</include_key_contributors>
+        <include_kpi_signals>true</include_kpi_signals>
+        <include_predictive_target>true</include_predictive_target>
+        <include_predictive_thresholds>true</include_predictive_thresholds>
+        <include_process_mining>true</include_process_mining>
+        <include_severity>true</include_severity>
+        <include_target>true</include_target>
+        <include_thresholds>true</include_thresholds>
+        <include_trends>true</include_trends>
+        <include_widget_notification>false</include_widget_notification>
+        <last_updated_on>2026-04-29 23:38:28</last_updated_on>
+        <po_project_id_list>[]</po_project_id_list>
+        <refresh_information>false</refresh_information>
+        <refresh_interval>-1</refresh_interval>
+        <requested_by_user/>
+        <schedule_repetition>false</schedule_repetition>
+        <show_insights_panel>true</show_insights_panel>
+        <sys_class_name>par_dashboard_user_metadata</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-29 23:19:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6cca2cb9c324c7104a9d563ed40131c3</sys_id>
+        <sys_mod_count>25</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="HR System - Refund" source="x_1590365_hr_sys_0">d34f1c4dc36443104a9d563ed4013144</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR System - Refund">d34f1c4dc36443104a9d563ed4013144</sys_scope>
+        <sys_update_name>par_dashboard_user_metadata_6cca2cb9c324c7104a9d563ed40131c3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-30 01:10:50</sys_updated_on>
+        <updated_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</updated_by_user>
+        <use_custom_tab_colors>false</use_custom_tab_colors>
+    </par_dashboard_user_metadata>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="HR System - Refund">d34f1c4dc36443104a9d563ed4013144</application>
+        <file_path/>
+        <instance_id>71890fc9ffb52e14c80bf8e4fc4fd9a0</instance_id>
+        <instance_name>dev350289</instance_name>
+        <name>par_dashboard_user_metadata_6cca2cb9c324c7104a9d563ed40131c3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_user_metadata"><par_dashboard_user_metadata action="INSERT_OR_UPDATE"><background_color/><cache_expiration_time>24</cache_expiration_time><card_bg_image/><created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user><created_on>2026-04-29 23:19:53</created_on><dashboard display_value="Refund Dashboard">e0ca2cb9c324c7104a9d563ed40131b9</dashboard><edit_locked>{"sysId":"6816f79cc0a8016401c5a33be04be441","name":"System Administrator","avatar":"a5d3c898c3222010ae17dd981840dd8b.iix?t=small","lockedOn":"1777511450256"}</edit_locked><enable_data_cache>false</enable_data_cache><include_custom_insights>true</include_custom_insights><include_key_contributors>true</include_key_contributors><include_kpi_signals>true</include_kpi_signals><include_predictive_target>true</include_predictive_target><include_predictive_thresholds>true</include_predictive_thresholds><include_process_mining>true</include_process_mining><include_severity>true</include_severity><include_target>true</include_target><include_thresholds>true</include_thresholds><include_trends>true</include_trends><include_widget_notification>false</include_widget_notification><last_updated_on>2026-04-29 23:38:28</last_updated_on><po_project_id_list>[]</po_project_id_list><refresh_information>false</refresh_information><refresh_interval>-1</refresh_interval><requested_by_user/><schedule_repetition>false</schedule_repetition><show_insights_panel>true</show_insights_panel><sys_class_name>par_dashboard_user_metadata</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-29 23:19:53</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6cca2cb9c324c7104a9d563ed40131c3</sys_id><sys_mod_count>25</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="HR System - Refund" source="x_1590365_hr_sys_0">d34f1c4dc36443104a9d563ed4013144</sys_package><sys_policy/><sys_scope display_value="HR System - Refund">d34f1c4dc36443104a9d563ed4013144</sys_scope><sys_update_name>par_dashboard_user_metadata_6cca2cb9c324c7104a9d563ed40131c3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-30 01:10:50</sys_updated_on><updated_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</updated_by_user><use_custom_tab_colors>false</use_custom_tab_colors></par_dashboard_user_metadata></record_update>]]></payload>
+        <payload_hash>-1866096182</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>3affd689c36483104a9d563ed401315a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-30 01:10:50</sys_created_on>
+        <sys_id>712405f9c3e4c7104a9d563ed40131a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19ddbf046bf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-30 01:10:50</sys_updated_on>
+        <type>PAR Dashboard Metadata</type>
+        <update_guid>7d2405f976e4c7103520e675d8560ba4</update_guid>
+        <update_guid_history>7d2405f976e4c7103520e675d8560ba4:-1866096182,b52405f9f0e4c7109dd6da6df9f5f49b:-79683482,612441f946e4c7100987edd6981aad16:404697062,67cfa8358564c710d1aeedfabab1124d:-1064270096,afcfa8350564c71030d6f2c8bb2cdd43:456074903,dd0fa0f14b64c71042180c2aa868a1f8:404697062,c50fa0f1b464c710b5cd8a7880ee80ac:584111439,040fa0f13664c7100701ae1026195d39:-844220276,d3de2cb13164c71059a7c928dbef6794:-705112547,13de2cb1fe64c7100c8e14f8423cc890:-753620037,50dee8b13e64c7101c6075ba18a6c914:-1194217885,44dea8b13a64c710da3ba372143860df:1250528543,d3cea8b1cd64c71044c7b3c1f13abc3e:-177803172,549ea0b12464c710fc8aa92239859f79:-1597413835,109ea0b17364c710df827d3e92470c72:-963177646,f78eec31bf64c7106fd5b13903d05a78:1960185128,2beb247d5b24c710d0b9749f4ec48943:159430296,6beb247d2e24c710af5020e3ac22672d:-2137712237,e41ba8f96724c710c71e11f004e04e32:1960185128,141b68f98324c7107bd7b396829638de:-1256818236,76daa0f9f324c710bda69ebdc4b689cf:185796788,76daecb9cc24c710f6739575c035c3b6:-475684737,16daa8b94424c710db0be2b7e36f05d9:2049999879,b9daa0f92024c710666382bdc32a643b:741509057,b1daa0f9b824c71005c82a98a467af32:1913044222,b9caacb91b24c71004a493905f9d9be1:2049999879,20ca2cb9f024c710947ac2f14cd636c6:-357748663</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">43648df9c3e4c7104a9d563ed401315a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-30 01:12:00</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_user_metadata">par_dashboard_user_metadata</sys_db_object>
+        <sys_id>877404a252704928926f1b6affa3ac90</sys_id>
+        <sys_metadata>6cca2cb9c324c7104a9d563ed40131c3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="HR System - Refund" source="x_1590365_hr_sys_0">d34f1c4dc36443104a9d563ed4013144</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="HR System - Refund">d34f1c4dc36443104a9d563ed4013144</sys_scope>
+        <sys_scope_delete display_value="">0c971c5a0968402cb2820a0a3b8b7af9</sys_scope_delete>
+        <sys_update_name>par_dashboard_user_metadata_6cca2cb9c324c7104a9d563ed40131c3</sys_update_name>
+        <sys_update_version display_value="par_dashboard_user_metadata_6cca2cb9c324c7104a9d563ed40131c3">712405f9c3e4c7104a9d563ed40131a6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-30 01:12:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

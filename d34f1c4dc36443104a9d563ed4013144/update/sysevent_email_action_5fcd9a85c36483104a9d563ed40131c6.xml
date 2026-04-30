@@ -70,13 +70,13 @@
 <tbody>
 <tr>
 <td style="width: 100%;">
-<div class="font-mulish" style="font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; font-size: 16px; line-height: 24px; color: #595959;" align="left">Dear ${opened_by.first_name},<br><br>I&rsquo;m ${category.assignment_group.manager.name}, HR Manager of HR System -&nbsp; Refund.<br><br>Good news! We have reviewed your recent refund request ${number} submitted on ${refund_date}, and it has been successfully approved.</div>
+<div class="font-mulish" style="font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; font-size: 16px; line-height: 24px; color: #595959;" align="left">Dear ${opened_by.first_name},<br><br>I&rsquo;m ${category.assignment_group.manager.name}, HR Manager of HR System -&nbsp; Refund.<br><br>Good news! We have reviewed your recent refund request ${number} submitted on ${receipt_date}, and it has been successfully approved.</div>
 <div class="font-mulish" style="font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; font-size: 16px; line-height: 24px; color: #595959;" align="left"><br>The total approved amount of $${refund_in_dollars} will be processed and should be credited to your account within, e.g., 1-2 business days.&nbsp;</div>
 <div class="font-mulish" style="font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; font-size: 16px; line-height: 24px; color: #595959;" align="left">
 <p data-path-to-node="5">If you have any questions regarding the payment, feel free to reply to this email.</p>
-<br>
-<p data-path-to-node="6">Best regards,</p>
 </div>
+<div class="font-mulish" style="font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; font-size: 16px; line-height: 24px; color: #595959;" align="left">&nbsp;</div>
+<div class="font-mulish" style="font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; font-size: 16px; line-height: 24px; color: #595959;" align="left">Best regards,</div>
 </td>
 </tr>
 </tbody>
@@ -190,7 +190,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>5fcd9a85c36483104a9d563ed40131c6</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Refund Approved</sys_name>
         <sys_overrides/>
         <sys_package display_value="HR System - Refund" source="x_1590365_hr_sys_0">d34f1c4dc36443104a9d563ed4013144</sys_package>
@@ -198,7 +198,7 @@
         <sys_scope display_value="HR System - Refund">d34f1c4dc36443104a9d563ed4013144</sys_scope>
         <sys_update_name>sysevent_email_action_5fcd9a85c36483104a9d563ed40131c6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-27 23:47:04</sys_updated_on>
+        <sys_updated_on>2026-04-29 21:02:42</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>
